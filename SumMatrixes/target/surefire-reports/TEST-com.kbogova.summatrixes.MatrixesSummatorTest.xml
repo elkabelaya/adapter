@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="com.kbogova.summatrixes.MatrixesSummatorTest" time="0.121" errors="0" skipped="0">
+<testsuite tests="4" failures="0" name="com.kbogova.summatrixes.MatrixesSummatorTest" time="0.17" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="14+36-1461"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-14.jdk/Contents/Home/lib"/>
-    <property name="maven.multiModuleProjectDirectory" value="/Users/elkabelaya/Documents/architecture/dz/adapter/SumMatrixes"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/elkabelaya/Documents/architecture/dz/adapter/otus_architect_adapter/SumMatrixes"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="https://java.oracle.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -13,7 +13,7 @@
     <property name="user.country" value="GB"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/Users/elkabelaya/Documents/architecture/dz/adapter/SumMatrixes"/>
+    <property name="user.dir" value="/Users/elkabelaya/Documents/architecture/dz/adapter/otus_architect_adapter/SumMatrixes"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="14+36-1461"/>
     <property name="os.arch" value="x86_64"/>
@@ -58,8 +58,8 @@
     <property name="socksNonProxyHosts" value="local,|*.local,|169.254/16|*.169.254/16"/>
     <property name="ftp.nonProxyHosts" value="local,|*.local,|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase classname="com.kbogova.summatrixes.MatrixesSummatorTest" name="com.kbogova.summatrixes.MatrixesSummatorTest.testRun_WrongDimensions" time="0.071"/>
+  <testcase classname="com.kbogova.summatrixes.MatrixesSummatorTest" name="com.kbogova.summatrixes.MatrixesSummatorTest.testRun_WrongDimensions" time="0.107"/>
   <testcase classname="com.kbogova.summatrixes.MatrixesSummatorTest" name="com.kbogova.summatrixes.MatrixesSummatorTest.testRun_EmptyFile" time="0"/>
-  <testcase classname="com.kbogova.summatrixes.MatrixesSummatorTest" name="com.kbogova.summatrixes.MatrixesSummatorTest.testRun_3x3" time="0.044"/>
+  <testcase classname="com.kbogova.summatrixes.MatrixesSummatorTest" name="com.kbogova.summatrixes.MatrixesSummatorTest.testRun_3x3" time="0.057"/>
   <testcase classname="com.kbogova.summatrixes.MatrixesSummatorTest" name="com.kbogova.summatrixes.MatrixesSummatorTest.testRun_WrongFileStructure" time="0.006"/>
 </testsuite>

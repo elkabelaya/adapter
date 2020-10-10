@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="com.kbogova.summatrixesclient.MatrixesHandlerTest" time="0.132" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="com.kbogova.summatrixesclient.MatrixesHandlerTest" time="0.161" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="14+36-1461"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-14.jdk/Contents/Home/lib"/>
-    <property name="maven.multiModuleProjectDirectory" value="/Users/elkabelaya/Documents/architecture/dz/adapter/SumMatrixesClient"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/elkabelaya/Documents/architecture/dz/adapter/otus_architect_adapter/SumMatrixesClient"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="https://java.oracle.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -13,7 +13,7 @@
     <property name="user.country" value="GB"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/Users/elkabelaya/Documents/architecture/dz/adapter/SumMatrixesClient"/>
+    <property name="user.dir" value="/Users/elkabelaya/Documents/architecture/dz/adapter/otus_architect_adapter/SumMatrixesClient"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="14+36-1461"/>
     <property name="os.arch" value="x86_64"/>
@@ -58,6 +58,6 @@
     <property name="socksNonProxyHosts" value="local,|*.local,|169.254/16|*.169.254/16"/>
     <property name="ftp.nonProxyHosts" value="local,|*.local,|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase classname="com.kbogova.summatrixesclient.MatrixesHandlerTest" name="com.kbogova.summatrixesclient.MatrixesHandlerTest.testSumMatrixes" time="0.117"/>
-  <testcase classname="com.kbogova.summatrixesclient.MatrixesHandlerTest" name="com.kbogova.summatrixesclient.MatrixesHandlerTest.testGenerateMatrixes" time="0.015"/>
+  <testcase classname="com.kbogova.summatrixesclient.MatrixesHandlerTest" name="com.kbogova.summatrixesclient.MatrixesHandlerTest.testSumMatrixes" time="0.145"/>
+  <testcase classname="com.kbogova.summatrixesclient.MatrixesHandlerTest" name="com.kbogova.summatrixesclient.MatrixesHandlerTest.testGenerateMatrixes" time="0.016"/>
 </testsuite>
